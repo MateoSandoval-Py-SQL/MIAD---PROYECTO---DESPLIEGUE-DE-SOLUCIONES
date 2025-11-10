@@ -2,20 +2,16 @@
   "model": "RandomForestRegressor",
   "n_obs": 96,
   "features": [
-    "NDVI",
-    "EVI",
     "Precipitacion",
     "TempMax",
     "TempMin",
     "HumedadRelativa",
-    "mes",
-    "anio",
-    "mes_sin",
-    "mes_cos"
+    "month_sin",
+    "month_cos"
   ],
   "metricas_test_snapshot": {
-    "R2": 0.5245,
-    "RMSE": 0.0187,
-    "MAE": 0.013
+    "R2": 0.1964532296246193,
+    "RMSE": 0.024372565519452407,
+    "MAE": 0.01729200000000001
   }
 }
