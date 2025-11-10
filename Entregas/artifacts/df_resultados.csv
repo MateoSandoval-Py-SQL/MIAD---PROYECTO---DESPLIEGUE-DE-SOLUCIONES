@@ -1,0 +1,4 @@
+MODELO,MAE,RMSE,R2
+Random Forest,0.013,0.0187,0.5245
+Regresión Lineal,0.0168,0.0222,0.3341
+Gradient Boosting,0.0169,0.0226,0.3112

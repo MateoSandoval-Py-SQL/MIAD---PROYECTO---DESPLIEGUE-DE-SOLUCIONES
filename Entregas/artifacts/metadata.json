@@ -1,0 +1,21 @@
+{
+  "model": "RandomForestRegressor",
+  "n_obs": 96,
+  "features": [
+    "NDVI",
+    "EVI",
+    "Precipitacion",
+    "TempMax",
+    "TempMin",
+    "HumedadRelativa",
+    "mes",
+    "anio",
+    "mes_sin",
+    "mes_cos"
+  ],
+  "metricas_test_snapshot": {
+    "R2": 0.5245,
+    "RMSE": 0.0187,
+    "MAE": 0.013
+  }
+}
